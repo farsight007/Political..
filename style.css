@@ -1,0 +1,452 @@
+.i-phone-14-15-pro-5,
+.i-phone-14-15-pro-5 * {
+  box-sizing: border-box;
+}
+.i-phone-14-15-pro-5 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 773px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-48 {
+  background: #ffe8d7;
+  border-style: solid;
+  border-color: #e04f25;
+  border-width: 0.95px;
+  display: flex;
+  flex-direction: column;
+  gap: 12.41px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-41 {
+  padding: 1.91px 0px 1.91px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 88.81px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.join-india-s-growth-story {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-SemiBold", sans-serif;
+  font-size: 9.549263954162598px;
+  font-weight: 600;
+  position: relative;
+  width: 166.16px;
+  height: 11.46px;
+}
+.logo-1 {
+  flex-shrink: 0;
+  width: 101.46px;
+  height: 27.56px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-6 {
+  background: linear-gradient(
+    93.21deg,
+    rgba(255, 255, 255, 1) 35.50518453121185%,
+    rgba(245, 133, 52, 1) 100%
+  );
+  padding: 12.41px 2px 12.41px 2px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 1.67px 1.67px -1.25px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.invest-in-india-invest-with-farsight {
+  color: #e04f25;
+  text-align: center;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 16.700714111328125px;
+  font-weight: 400;
+  position: relative;
+  width: 374px;
+  height: 20px;
+}
+.frame-4 {
+  padding: 0px 18.14px 0px 18.14px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.68px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us-1 {
+  flex-shrink: 0;
+  width: 154.48px;
+  height: 18.37px;
+  position: relative;
+}
+.contactus-farsightshares-com {
+  color: #e04f25;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10.020429611206055px;
+  font-weight: 400;
+  position: absolute;
+  right: 11.96%;
+  left: 0%;
+  width: 88.04%;
+  bottom: 34.68%;
+  top: 0%;
+  height: 65.32%;
+}
+.contact-us-2 {
+  flex-shrink: 0;
+  width: 126.09px;
+  height: 18.37px;
+  position: relative;
+}
+.www-farsightshares-com {
+  color: #e04f25;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10.020429611206055px;
+  font-weight: 400;
+  position: absolute;
+  right: 7.21%;
+  left: 0%;
+  width: 92.79%;
+  bottom: 34.68%;
+  top: 0%;
+  height: 65.32%;
+}
+.contact-us-3 {
+  flex-shrink: 0;
+  width: 64.3px;
+  height: 18.37px;
+  position: relative;
+}
+._9311522003 {
+  color: #e04f25;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 10.020429611206055px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.68%;
+  left: 0%;
+  width: 93.32%;
+  bottom: 34.68%;
+  top: 0%;
+  height: 65.32%;
+}
+.frame-7 {
+  background: rgba(255, 255, 255, 0);
+  padding: 6.26px 14.32px 6.26px 42.02px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.67px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.why-invest-in-india {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoLoopedThaiUi-SemiBold", sans-serif;
+  font-size: 15.03064250946045px;
+  line-height: 16.03px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 27.14px;
+}
+.at-farsight-we-have-identified-several-investment-opportunities-in-india-that-we-believe-will-provide-our-clients-with-attractive-returns-these-include {
+  color: #000000;
+  text-align: left;
+  font-family: "Mulish-Bold", sans-serif;
+  font-size: 9.185394287109375px;
+  line-height: 16.03px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.frame-31 {
+  padding: 10.44px 5.73px 10.44px 12.41px;
+  display: flex;
+  flex-direction: column;
+  gap: 7.64px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 425px;
+  position: relative;
+  overflow-y: auto;
+}
+.frame-40 {
+  background: #f58534;
+  border-radius: 5.19px;
+  padding: 2.88px 32px 2.88px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 287px;
+  position: relative;
+}
+.political {
+  color: #fff6f6;
+  text-align: center;
+  font-family: "Arimo-Bold", sans-serif;
+  font-size: 10.020428657531738px;
+  line-height: 16.03px;
+  font-weight: 700;
+  position: relative;
+  width: 139px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-20 {
+  background: #ffffff;
+  border-radius: 13.37px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.74);
+  border-width: 1.25px;
+  padding: 11px 5.73px 7.93px 13.37px;
+  display: flex;
+  flex-direction: column;
+  gap: 4.18px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 374px;
+  height: 362px;
+  position: relative;
+  overflow: hidden;
+}
+.in-2024-prime-minister-narendra-modi-s-leadership-will-be-crucial-as-india-approaches-general-elections-he-will-leverage-achievements-in-economic-growth-infrastructure-and-digital-initiatives-to-galvanize-voter-support-modi-is-likely-to-strengthen-coalitions-with-regional-parties-to-counter-opposition-and-ensure-political-stability-his-focus-on-continuity-in-reforms-and-welfare-programs-will-aim-to-project-a-commitment-to-development-intensified-public-engagement-especially-with-the-youth-will-be-key-to-maintaining-his-connection-with-voters {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #000000, #000000);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Commissioner-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: relative;
+  width: 355px;
+  height: 347px;
+}
+.frame-46 {
+  padding: 0px 7.64px 0px 7.64px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 117.46px;
+  position: relative;
+}
+.frame-42 {
+  padding: 0px 13.37px 0px 13.37px;
+  display: flex;
+  flex-direction: row;
+  row-gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-shrink: 0;
+  width: 364.78px;
+  height: 77.35px;
+  position: relative;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 372.42px;
+  position: relative;
+}
+.how-to-get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 10.020428657531738px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  height: 24.22px;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations {
+  text-align: left;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 21.71px;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span2 {
+  color: #0099ff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span3 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span4 {
+  color: #0099ff;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+}
+.feel-free-to-reach-out-to-farsight-at-farsight-farsightshares-com-or-click-here-to-open-an-online-account-and-explore-diverse-investment-opportunities-to-full-your-financial-aspirations-span5 {
+  color: #000000;
+  font-family: "Roboto-Regular", sans-serif;
+  font-size: 8.59433650970459px;
+  font-weight: 400;
+}
+.farsight-group {
+  color: #323232;
+  text-align: left;
+  font-family: "RobotoSlab-Regular", sans-serif;
+  font-size: 13.368968963623047px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-44 {
+  margin: -3.82px 0 0 0;
+  background: rgba(245, 133, 52, 0.57);
+  padding: 0px 4.77px 0px 4.77px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 399.16px;
+  position: absolute;
+  left: 0px;
+  top: 70.3px;
+}
+.frame-452 {
+  display: flex;
+  flex-direction: column;
+  gap: 9.55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 151.83px;
+  position: relative;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-1 {
+  flex-shrink: 0;
+  width: 130.27px;
+  height: 27.14px;
+  position: relative;
+  object-fit: cover;
+}
+.copyright-2023-farsight-group-all-rights-reserved {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 5.845250606536865px;
+  line-height: 19.87px;
+  font-weight: var(--font-weight-700, 700);
+  position: relative;
+  align-self: stretch;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: row;
+  gap: 2.92px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 295.84px;
+  top: 16.08px;
+}
+.pngwing-com-1 {
+  flex-shrink: 0;
+  width: 19.21px;
+  height: 15.03px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-1-1 {
+  flex-shrink: 0;
+  width: 13.36px;
+  height: 13.36px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-2-1 {
+  flex-shrink: 0;
+  width: 12.53px;
+  height: 11.69px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-3-1 {
+  flex-shrink: 0;
+  width: 13.36px;
+  height: 13.36px;
+  position: relative;
+  object-fit: cover;
+}
+.pngwing-com-4-1 {
+  flex-shrink: 0;
+  width: 15.03px;
+  height: 15.03px;
+  position: relative;
+  object-fit: cover;
+}
